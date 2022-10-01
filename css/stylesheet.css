@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+html {
+    font-size: 100%;
+    /*font-family: 'Times New Roman', Times, serif;*/
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+#button {
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+    color: blueviolet;
+    background-color: pink;
+}
+
+#result {
+    color: black;
+}
